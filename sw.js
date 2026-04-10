@@ -1,5 +1,4 @@
-Sw · JS
-コピー
+
 
 const CACHE_NAME = 'nowclock-v1';
 const ASSETS = [
